@@ -1,0 +1,13 @@
+name: Trolley
+title: Trolley
+username: mikeyparr
+account: mikeyparr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11942493
+bundleId: 8581515
+url: https://mikeyparr.shinyapps.io/Trolley/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: trolley.jpg|trolley.png
